@@ -1,0 +1,10 @@
+C:\Users\Aluno\source\repos\CircoDeApps2\bin\Debug\CircoDeApps2.exe.config
+C:\Users\Aluno\source\repos\CircoDeApps2\bin\Debug\CircoDeApps2.exe
+C:\Users\Aluno\source\repos\CircoDeApps2\bin\Debug\CircoDeApps2.pdb
+C:\Users\Aluno\source\repos\CircoDeApps2\obj\Debug\CircoDeApps2.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\CircoDeApps2\obj\Debug\CircoDeApps2.FormMenu.resources
+C:\Users\Aluno\source\repos\CircoDeApps2\obj\Debug\CircoDeApps2.Properties.Resources.resources
+C:\Users\Aluno\source\repos\CircoDeApps2\obj\Debug\CircoDeApps2.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\CircoDeApps2\obj\Debug\CircoDeApps2.exe
+C:\Users\Aluno\source\repos\CircoDeApps2\obj\Debug\CircoDeApps2.pdb
+C:\Users\Aluno\source\repos\CircoDeApps2\obj\Debug\CircoDeApps2.FormSplash.resources

@@ -1,0 +1,39 @@
+C:\Programas\AppPessoa\bin\Debug\DbPessoa.mdf
+C:\Programas\AppPessoa\bin\Debug\DbPessoa_log.ldf
+C:\Programas\AppPessoa\bin\Debug\AppPessoa.exe.config
+C:\Programas\AppPessoa\bin\Debug\AppPessoa.exe
+C:\Programas\AppPessoa\bin\Debug\AppPessoa.pdb
+C:\Programas\AppPessoa\obj\Debug\AppPessoa.csproj.AssemblyReference.cache
+C:\Programas\AppPessoa\obj\Debug\AppPessoa.csproj.SuggestedBindingRedirects.cache
+C:\Programas\AppPessoa\obj\Debug\AppPessoa.Form1.resources
+C:\Programas\AppPessoa\obj\Debug\AppPessoa.Properties.Resources.resources
+C:\Programas\AppPessoa\obj\Debug\AppPessoa.csproj.GenerateResource.cache
+C:\Programas\AppPessoa\obj\Debug\AppPessoa.csproj.CoreCompileInputs.cache
+C:\Programas\AppPessoa\obj\Debug\AppPessoa.exe
+C:\Programas\AppPessoa\obj\Debug\AppPessoa.pdb
+C:\Users\fhenr\OneDrive\Área de Trabalho\AppPessoa-main\bin\Debug\DbPessoa.mdf
+C:\Users\fhenr\OneDrive\Área de Trabalho\AppPessoa-main\bin\Debug\DbPessoa_log.ldf
+C:\Users\fhenr\OneDrive\Área de Trabalho\AppPessoa-main\bin\Debug\AppPessoa.exe.config
+C:\Users\fhenr\OneDrive\Área de Trabalho\AppPessoa-main\bin\Debug\AppPessoa.exe
+C:\Users\fhenr\OneDrive\Área de Trabalho\AppPessoa-main\bin\Debug\AppPessoa.pdb
+C:\Users\fhenr\OneDrive\Área de Trabalho\AppPessoa-main\obj\Debug\AppPessoa.csproj.AssemblyReference.cache
+C:\Users\fhenr\OneDrive\Área de Trabalho\AppPessoa-main\obj\Debug\AppPessoa.csproj.SuggestedBindingRedirects.cache
+C:\Users\fhenr\OneDrive\Área de Trabalho\AppPessoa-main\obj\Debug\AppPessoa.Form1.resources
+C:\Users\fhenr\OneDrive\Área de Trabalho\AppPessoa-main\obj\Debug\AppPessoa.Properties.Resources.resources
+C:\Users\fhenr\OneDrive\Área de Trabalho\AppPessoa-main\obj\Debug\AppPessoa.csproj.GenerateResource.cache
+C:\Users\fhenr\OneDrive\Área de Trabalho\AppPessoa-main\obj\Debug\AppPessoa.csproj.CoreCompileInputs.cache
+C:\Users\fhenr\OneDrive\Área de Trabalho\AppPessoa-main\obj\Debug\AppPessoa.exe
+C:\Users\fhenr\OneDrive\Área de Trabalho\AppPessoa-main\obj\Debug\AppPessoa.pdb
+C:\Users\fhenr\OneDrive\Área de Trabalho\CrudFernando\bin\Debug\DbPessoa.mdf
+C:\Users\fhenr\OneDrive\Área de Trabalho\CrudFernando\bin\Debug\DbPessoa_log.ldf
+C:\Users\fhenr\OneDrive\Área de Trabalho\CrudFernando\bin\Debug\AppPessoa.exe.config
+C:\Users\fhenr\OneDrive\Área de Trabalho\CrudFernando\bin\Debug\AppPessoa.exe
+C:\Users\fhenr\OneDrive\Área de Trabalho\CrudFernando\bin\Debug\AppPessoa.pdb
+C:\Users\fhenr\OneDrive\Área de Trabalho\CrudFernando\obj\Debug\AppPessoa.csproj.AssemblyReference.cache
+C:\Users\fhenr\OneDrive\Área de Trabalho\CrudFernando\obj\Debug\AppPessoa.csproj.SuggestedBindingRedirects.cache
+C:\Users\fhenr\OneDrive\Área de Trabalho\CrudFernando\obj\Debug\AppPessoa.Form1.resources
+C:\Users\fhenr\OneDrive\Área de Trabalho\CrudFernando\obj\Debug\AppPessoa.Properties.Resources.resources
+C:\Users\fhenr\OneDrive\Área de Trabalho\CrudFernando\obj\Debug\AppPessoa.csproj.GenerateResource.cache
+C:\Users\fhenr\OneDrive\Área de Trabalho\CrudFernando\obj\Debug\AppPessoa.csproj.CoreCompileInputs.cache
+C:\Users\fhenr\OneDrive\Área de Trabalho\CrudFernando\obj\Debug\AppPessoa.exe
+C:\Users\fhenr\OneDrive\Área de Trabalho\CrudFernando\obj\Debug\AppPessoa.pdb
